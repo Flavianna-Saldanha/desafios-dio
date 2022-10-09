@@ -1,2 +1,2 @@
-# desafios-dio
-Desafios da Dio
+# Desafios da DIO
+Meu repositório para projetos da DIO
